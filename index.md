@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 1
+in_menu: true
 ---
+**Le Club Vosgien de Gérardmer**
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Le Club Vosgien de Gérardmer est une association loi 1901 reconnue d’utilité publique affiliée à la Fédération Vosgienne. Le Club Vosgien de Gérardmer existe depuis 1976. 
